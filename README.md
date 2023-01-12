@@ -1,5 +1,5 @@
 Self taught programmer.
 
-Learning to develope a multipurpose program called "Clove"
+Making a game
 
 Yes
